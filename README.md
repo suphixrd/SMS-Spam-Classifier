@@ -1,5 +1,7 @@
 # SMS-Spam-Classifier
 Here's a machine learning project for classifying SMS messages as spam or ham (normal) using Python and scikit-learn.
+
+
 Project Goal
 The primary goal of this project is to develop a robust classifier that can accurately identify unsolicited or deceptive "spam" messages from legitimate "ham" messages. This helps in filtering unwanted communication, improving user experience and security.
 
